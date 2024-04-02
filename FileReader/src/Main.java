@@ -9,9 +9,6 @@ public static void main(String[] args) throws Exception {
        String fileToWrite = "C:\\Users\\陶泽文\\Desktop\\GroceriesFormatted.txt";
 
        String [] array = new String[4];
-       
-       
-      
        double price;
        String separator = ",";
        double total =0;
